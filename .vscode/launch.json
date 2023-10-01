@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-AdoDswApplication<ado-dsw>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.adodsw.AdoDswApplication",
+      "projectName": "ado-dsw",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
